@@ -6,7 +6,10 @@ The Wii was a very population sytem when it was released. However the wii being 
 ## Materials
 * [Power Regulator Board](https://store.bitbuilt.net/rvl-psu/)
 * Wii 4-Layer Board (*Don't know if your board is a 4 layer?* [Click Here](https://bitbuilt.net/forums/index.php?threads/revision-identification-guide.863/))
-* [3D Printed Case]() [Source(Fusion 360)]()
+* 3D Printed Case [STL]() | [Source(Fusion 360)]()
+* 10 M2x3mm Standoffs [Like These](https://www.amazon.com/Cameras-Standoff-Hexagonal-Spacer-100Pcs/dp/B00R1J5ZIK/)
+* 10 M2x3 machine Screws [Like These](https://www.homedepot.com/p/Prime-Line-M2-0-4-x-3-mm-Grade-A2-70-Stainless-Steel-Phillips-Drive-Pan-Head-Metric-Machine-Screws-10-Pack-9130623/311229541)
+* 4 M5x25mm Hex Socket Cap [Like These](https://www.homedepot.com/p/Everbilt-M5-0-8-x-25-mm-Steel-Zinc-Plated-Socket-Cap-Recessed-Hex-Screws-3-per-Pack-803318/204281933)
 * [Cooling Fan](https://store.bitbuilt.net/cooling-kit/)
 * [Power Supply](https://www.amazon.com/Adapter-100-240V-Transformers-Switching-Wireless/dp/B073WSWT34?th=1)
 * [34 AWG Magnet Wire for Data](https://www.amazon.com/BNTECHGO-AWG-Magnet-Wire-Transformers/dp/B07P1FT1DC/)
@@ -21,3 +24,6 @@ The Wii was a very population sytem when it was released. However the wii being 
 2. Connect your Wii to Wi-Fi to test Wi-Fi
 3. Install PortablizeMii from [this guide](https://www.youtube.com/watch?v=xr7eMD70d_c)
 4. Trim your Wii motherboard and relocatate U10, Bluetooth(Optional but required for Wii games), Wi-Fi(Optional), USB, And two GC ports
+
+## Credit
+* [jefflongo](https://bitbuilt.net/forums/index.php?members/jefflongo.724/) - Refrence Files
